@@ -1,0 +1,8 @@
+.lang span{
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+}
+.lang span:hover{
+    opacity: 0.6;
+}

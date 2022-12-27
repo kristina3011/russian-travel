@@ -1,0 +1,28 @@
+.item-top__url{
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+	width: 48%;
+}
+
+.item-top__url a:hover{
+    opacity: 60%;
+}
+.item-top__url{
+    margin: 0;
+    letter-spacing: 2px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #AAAAAA;
+}
+.item-top__url a{
+    color: white;
+}
+
+@media(max-width: 540px){
+	.item-top__url{
+		width: 100%;
+    }
+	}

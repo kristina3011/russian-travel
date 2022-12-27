@@ -1,0 +1,10 @@
+.intro__title{
+    font-weight: 900;
+    font-size: 54px;
+}
+@media(max-width: 768px){
+	.intro__title{
+        font-size: calc(1em + 4vw);
+        margin-top: 60px;
+    }
+}

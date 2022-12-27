@@ -1,0 +1,7 @@
+.intro__list_item{
+    margin: 5px 0;
+    font-size: 12px;
+}
+.intro__list_item span{
+    font-weight: bold;
+}

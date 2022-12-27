@@ -1,0 +1,9 @@
+.place__title{
+    font-size: 72px;
+	width: 48%;
+}
+@media(max-width: 540px){
+	.place__title{
+		width: 100%;
+    }
+	}

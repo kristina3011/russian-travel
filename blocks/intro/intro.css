@@ -1,0 +1,13 @@
+.intro{
+    margin: 0 10%;
+}
+@media(max-width: 1024px){
+	.intro{
+		margin: 0 3%;
+    }
+	}
+@media(max-width: 768px){
+		.intro{
+			margin: 0 2%;
+		}
+		}

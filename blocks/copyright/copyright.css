@@ -1,0 +1,8 @@
+.copyright{
+    margin: 0;
+}
+@media(max-width: 762px){
+	.copyright{
+        margin-top: 40px;
+    }
+}
