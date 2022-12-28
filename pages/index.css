@@ -18,10 +18,10 @@
 @import url(../blocks/place-container/place-container.css);
 @import url(../blocks/place__title/place__title.css);
 @import url(../blocks/place__image/place__image.css);
-@import url(../blocks/place-container/_item/place-container_item.css);
-@import url(../blocks/item-bot/item-bot.css);
-@import url(../blocks/item-top/item-top.css);
-@import url(../blocks/item-top/__url/item-top__url.css);
+@import url(../blocks/place-container/__item/place-container__item.css);
+@import url(../blocks/place-bot/place-bot.css);
+@import url(../blocks/place-top/place-top.css);
+@import url(../blocks/place-top/__url/place-top__url.css);
 @import url(../blocks/place-container/place-container.css);
 @import url(../blocks/place__paragraph/place__paragraph.css);
 @import url(../blocks/cover-container/cover-container.css);

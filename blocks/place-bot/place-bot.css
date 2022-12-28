@@ -1,10 +1,10 @@
-.item-bot {
+.place-bot {
 	display: flex;
     justify-content: space-between;
 }
 
 @media(max-width: 540px){
-	.item-bot{
+	.place-bot{
         flex-direction: column;
     }
 }

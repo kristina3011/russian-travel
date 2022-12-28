@@ -1,11 +1,11 @@
-.item-top{
+.place-top{
     margin-bottom: 50px;
 	display: flex;
     justify-content: space-between;
 }
 
 @media(max-width: 540px){
-	.item-top{
+	.place-top{
 		flex-direction: column;
     }
 	}

@@ -1,4 +1,4 @@
-.item-top__url{
+.place-top__url{
     display: flex;
     justify-content: end;
     align-items: flex-start;
@@ -13,16 +13,16 @@
 	}
 
 
-.item-top__url a:hover{
+.place-top__url a:hover{
     opacity: 60%;
 }
 
-.item-top__url a{
+.place-top__url a{
     color: white;
 }
 
 @media(max-width: 540px){
-	.item-top__url{
+	.place-top__url{
 		width: 100%;
     }
 	}
