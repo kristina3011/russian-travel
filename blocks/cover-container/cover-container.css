@@ -33,9 +33,6 @@
 @media(max-width: 768px) {
 	.cover-container {
 		margin: 0 2%;
-	}
-
-	.cover-container {
 		height: 480px;
 		margin: 50px 0;
 	}
