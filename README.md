@@ -12,4 +12,4 @@
 
 **Ссылка**
 
-C:\Users\Galaxy\russian-travel
+https://kristina3011.github.io/russian-travel/
