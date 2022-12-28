@@ -5,18 +5,18 @@
     flex-direction: column;
     text-align: left;
 	width: 48%;
-}
+    margin: 0;
+	letter-spacing: 2px;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #AAAAAA;
+	}
+
 
 .item-top__url a:hover{
     opacity: 60%;
 }
-.item-top__url{
-    margin: 0;
-    letter-spacing: 2px;
-    font-size: 12px;
-    text-transform: uppercase;
-    color: #AAAAAA;
-}
+
 .item-top__url a{
     color: white;
 }
