@@ -1,0 +1,23 @@
+.place{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.8fr 2fr;
+	margin-top: 30px;
+}
+.place .place__title{
+    margin-bottom: 30px;
+	width: 94%;
+}
+
+@media(max-width: 660px){
+    .place{
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.3fr 0.1fr 1fr 0.5fr;
+    }
+}
+@media(max-width: 320px){
+    .place{
+		grid-template-columns: 1fr;
+		grid-template-rows: 0.3fr 0.1fr 0.5fr 1fr;
+	}
+}

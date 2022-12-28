@@ -1,14 +1,10 @@
-.place__title{
-    font-size: 72px;
+.places{
+    margin: 0 10%;
 }
-
 .places .place__title{
     max-width: 420px;
     margin-bottom: 0;
 	width: 94%;
-}
-.place .place__title{
-    margin-bottom: 30px;
 }
 
 @media(max-width: 768px){

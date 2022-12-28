@@ -1,0 +1,22 @@
+.place__website{
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+	margin: 0;
+    letter-spacing: 2px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #AAAAAA;
+	width: 94%;
+	margin-bottom: 30px;
+}
+.place__website a:hover{
+    opacity: 60%;
+}
+
+.place__website a{
+    color: white;
+}
+

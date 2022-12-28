@@ -1,17 +1,4 @@
-.place__image {
-	width: 48%;
-}
 .place__image img{
     max-width: 100%;
-}
-
-@media(max-width: 540px){
-	.place__image{
-		width: 100%;
-	}
-}
-@media(max-width: 320px){
-	.place__image{
-        margin-bottom: 20px;
-    }
+	width: 94%;
 }
