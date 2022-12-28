@@ -8,8 +8,6 @@
 @media(max-width: 1024px){
 	.lead__image{
 		margin: 0 3%;
-    }
-	.lead__image{
         margin-top: 50px;
     }
 }
